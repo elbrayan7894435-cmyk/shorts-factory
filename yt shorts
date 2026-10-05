@@ -1,0 +1,9 @@
+shorts-factory/
+├── .github/
+│   └── workflows/
+│       └── create-short.yml
+├── scripts/
+│   └── create_short.py
+├── config/
+│   └── short_config.json
+└── README.md
